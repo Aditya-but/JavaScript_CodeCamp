@@ -1,0 +1,15 @@
+html * {
+    text-align: center;
+}
+
+#num1-el{
+    text-decoration: underline;
+}
+
+#num2-el{
+    text-decoration: underline;
+}
+
+#res-el{
+    text-decoration: underline;
+}
